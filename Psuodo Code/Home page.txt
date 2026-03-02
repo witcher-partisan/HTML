@@ -1,0 +1,96 @@
+Home Page | About me
+
+--Home Page :
+----Each post will be show in this format on the home page :
+----Header
+----Highlight
+----Click this to read full
+----Views, likes, date added and added by.
+
+--Blog Page :
+----Header
+----Navigation
+----Details
+----Images
+----Views, likes, date added and added by
+
+
+
+Latest Posts
+
+BLOG POST 1 — AI vs Human Being
+Heading: AI VS Human Being
+Content 1: Why are normal people afraid of AI?
+Many people fear AI because they think it will replace jobs, outsmart humans, or become uncontrollable. The rapid growth of AI creates uncertainty, and humans naturally fear what they don’t fully understand.
+Content 2: What can AI do?
+AI can automate tasks, analyze massive amounts of data, generate content, assist in decision‑making, and even mimic human creativity. It excels at speed, accuracy, and consistency.
+Content 3: Why do we use AI every day?
+AI is already part of daily life — from Google searches to YouTube recommendations, navigation apps, spam filters, smart home devices, and even medical diagnostics. We use AI because it makes life easier, faster, and more efficient.
+
+AI vs Human — Pros & Cons Table
+
+
+----------------------------------
+
+BLOG POST 2 — Web Development vs DevOps
+Heading: Web Development vs DevOps
+What is Web Development?
+Web development is the process of building websites and web applications.
+- Front End — Everything users see (HTML, CSS, JavaScript).
+- Back End — Server logic, databases, authentication.
+- Databases — Storing and retrieving data (MySQL, MongoDB, PostgreSQL).
+- APIs — Connecting systems and enabling communication.
+What is DevOps?
+DevOps is a set of practices that combines development and operations to deliver software faster and more reliably.
+- Git, GitHub & Cloud — Version control and cloud deployment.
+- Containerization — Docker, Kubernetes for scalable apps.
+- Infrastructure as Code — Automating servers (Terraform, Ansible).
+- CI/CD Pipelines — Automated testing and deployment.
+Is learning only Web Development enough?
+Learning only web development is enough to get started, but combining it with DevOps makes you significantly more valuable, efficient, and job‑ready. Modern companies prefer developers who understand deployment, automation, and cloud workflows.
+
+Comparison Table — Web Dev Only vs Web Dev + DevOps
+
+
+
+-------------------------------------------------------------
+
+
+
+BLOG POST 3 — Cybersecurity vs Ethical Hacking
+Heading: Cybersecurity vs Ethical Hacking
+What is Cybersecurity?
+Cybersecurity focuses on protecting systems, networks, and data from unauthorized access, attacks, and damage. It includes risk management, security policies, monitoring, and prevention.
+What is Ethical Hacking?
+Ethical hacking is the practice of legally breaking into systems to identify vulnerabilities before malicious hackers exploit them. Ethical hackers use penetration testing, social engineering, and security tools to strengthen defenses.
+Why are both important?
+Cybersecurity builds the walls.
+Ethical hacking tests the walls.
+Together, they create a complete security ecosystem.
+
+Cybersecurity vs Ethical Hacking Table
+
+
+--------------------------------------------------------------
+
+
+Add your Blog Form,
+
+Name :
+Email :
+Header :
+Highlights :
+Detailed description :
+Images :
+
+And a submit button
+
+
+
+Footer :
+
+About Me | Contact US
+Desclaimer : Everything here is for Demo purpose only.  Created By : Dr. Witcher.
+
+
+

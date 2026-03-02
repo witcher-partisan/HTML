@@ -1,0 +1,29 @@
+Back to home
+
+-----------------------
+
+Heading : Would like to Bring your ideas to reality ?
+
+Subheading : Contact us now, and we will bring your idea to life, 
+
+Form : 
+
+Name :
+
+Your preferred contact method : Dropdown (Email, Phone, WhatsApp)
+
+Email :
+
+Phone :
+
+Give us a brief description of your idea : Text Box
+
+Submit button.
+
+
+image to the right,
+
+
+----------------------------------
+
+Footer
